@@ -5,13 +5,31 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/keirn/OneDrive/Art/Game-Design 2/Thermal Divide/ThermalDivide_SWS/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/Projectiles/BP_Projectile_Base.uasset",
+				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/FirstPerson/Maps/TutorialLevel01.umap",
+				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/Projectiles/BP_Projectile_Fire.uasset",
+				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/Sounds/SteamOnHit.uasset",
+				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/StarterContent/Particles/P_Steam_Lit.uasset",
+				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/Dummy.uasset",
+				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/AddedThings/IceWall.uasset",
+				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/AddedThings/Gauntlet_WIP_Cube.uasset",
+				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/AddedThings/Gauntlet_WIP_Cylinder.uasset",
+				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/Projectiles/BP_Particle_Ice.uasset",
+				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/AddedThings/ice_0002_height_1k.uasset",
+				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/AddedThings/ice_0002_color_1k.uasset",
+				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/AddedThings/ice_0002_normal_directx_1k.uasset",
+				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/AddedThings/ice_0002_normal_opengl_1k.uasset",
+				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/AddedThings/ice_0002_roughness_1k.uasset",
+				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/AddedThings/ice_0002_ao_1k.uasset",
 				"C:/Users/xxjon/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/FirstPerson/Maps/TutorialLevel01.umap",
 				"C:/Users/xxjon/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/FirstPerson/Input/IMC_Default.uasset",
 				"C:/Users/xxjon/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/xxjon/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/Water.uasset",
 				"C:/Users/xxjon/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/FirstPerson/Maps/_GENERATED/Xavier/Box_F37C3850.uasset",
-				"C:/Users/owner/OneDrive/Art/Game-Design 2/Thermal Divide/ThermalDivide_SWS/Content/FirstPerson/Maps/TutorialLevel01.umap",
-				"C:/Users/keirn/OneDrive/Art/Game-Design 2/Thermal Divide/ThermalDivide_SWS/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/owner/OneDrive/Art/Game-Design 2/Thermal Divide/ThermalDivide_SWS/Content/FirstPerson/Maps/TutorialLevel01.umap"
 			]
 		}
 	]
