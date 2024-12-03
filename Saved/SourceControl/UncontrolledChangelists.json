@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/xxjon/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/FirstPerson/Maps/TutorialLevel01.umap",
+				"C:/Users/xxjon/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/xxjon/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/xxjon/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/Water.uasset",
+				"C:/Users/xxjon/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/FirstPerson/Maps/_GENERATED/Xavier/Box_F37C3850.uasset",
+				"C:/Users/xxjon/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/FirstPerson/Maps/_GENERATED/Xavier/Box_4999B37C.uasset",
+				"C:/Users/xxjon/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/FirstPerson/Maps/_GENERATED/Xavier/Stairs_58DC72BB.uasset",
+				"C:/Users/xxjon/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/FirstPerson/Maps/_GENERATED/Xavier/Stairs_86C21AA5.uasset",
+				"C:/Users/xxjon/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/FirstPerson/Maps/_GENERATED/Xavier/Stairs_9D381CB4.uasset",
+				"C:/Users/xxjon/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/FirstPerson/Maps/_GENERATED/Xavier/Stairs_A309EE50.uasset",
 				"C:/Users/keirn/OneDrive/Art/Game-Design 2/Thermal Divide/ThermalDivide_SWS/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/Projectiles/BP_Projectile_Base.uasset",
 				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/FirstPerson/Maps/TutorialLevel01.umap",
@@ -43,11 +53,6 @@
 				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/AddedThings/ice_0002_normal_opengl_1k.uasset",
 				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/AddedThings/ice_0002_roughness_1k.uasset",
 				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/AddedThings/ice_0002_ao_1k.uasset",
-				"C:/Users/xxjon/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/FirstPerson/Maps/TutorialLevel01.umap",
-				"C:/Users/xxjon/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/FirstPerson/Input/IMC_Default.uasset",
-				"C:/Users/xxjon/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/xxjon/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/Water.uasset",
-				"C:/Users/xxjon/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/FirstPerson/Maps/_GENERATED/Xavier/Box_F37C3850.uasset",
 				"C:/Users/owner/OneDrive/Art/Game-Design 2/Thermal Divide/ThermalDivide_SWS/Content/FirstPerson/Maps/TutorialLevel01.umap"
 			]
 		}
