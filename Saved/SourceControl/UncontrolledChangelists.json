@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/owner/OneDrive/Art/Game-Design 2/Thermal Divide/ThermalDivide_SWS/Content/FirstPerson/Maps/TutorialLevel01.umap",
+				"C:/Users/owner/OneDrive/Art/Game-Design 2/Thermal Divide/ThermalDivide_SWS/Content/AddedThings/Models/Rubble01.uasset",
+				"C:/Users/owner/OneDrive/Art/Game-Design 2/Thermal Divide/ThermalDivide_SWS/Content/AddedThings/Models/RubbleTunnel01.uasset",
 				"C:/Users/xxjon/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/FirstPerson/Maps/TutorialLevel01.umap",
 				"C:/Users/xxjon/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/FirstPerson/Input/IMC_Default.uasset",
 				"C:/Users/xxjon/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
@@ -52,8 +55,7 @@
 				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/AddedThings/ice_0002_normal_directx_1k.uasset",
 				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/AddedThings/ice_0002_normal_opengl_1k.uasset",
 				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/AddedThings/ice_0002_roughness_1k.uasset",
-				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/AddedThings/ice_0002_ao_1k.uasset",
-				"C:/Users/owner/OneDrive/Art/Game-Design 2/Thermal Divide/ThermalDivide_SWS/Content/FirstPerson/Maps/TutorialLevel01.umap"
+				"C:/Users/keirn/OneDrive/Documents/GitHub/ThermalDivide_SWS/Content/AddedThings/ice_0002_ao_1k.uasset"
 			]
 		}
 	]
